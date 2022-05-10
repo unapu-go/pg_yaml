@@ -1,4 +1,4 @@
-PROJ_NAME = pg-yaml
+PROJ_NAME = pg_yaml
 RM = rm -vrf
 PLGO_DIR = ../../../gitlab.com/microo8/plgo/plgo
 
